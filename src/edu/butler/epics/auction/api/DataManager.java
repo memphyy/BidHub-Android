@@ -1,4 +1,4 @@
-package com.hsdemo.auction.api;
+package edu.butler.epics.auction.api;
 
 import android.app.Activity;
 import android.content.Context;
@@ -6,9 +6,9 @@ import android.os.Handler;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.hsdemo.auction.events.BidsRefreshedEvent;
-import com.hsdemo.auction.models.AuctionItem;
-import com.hsdemo.auction.models.Bid;
+import edu.butler.epics.auction.events.BidsRefreshedEvent;
+import edu.butler.epics.auction.models.AuctionItem;
+import edu.butler.epics.auction.models.Bid;
 import com.loopj.android.http.AsyncHttpClient;
 import com.parse.FindCallback;
 import com.parse.ParseException;

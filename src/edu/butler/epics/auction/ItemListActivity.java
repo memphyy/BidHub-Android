@@ -1,4 +1,4 @@
-package com.hsdemo.auction;
+package edu.butler.epics.auction;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -35,10 +35,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.volley.toolbox.NetworkImageView;
-import com.hsdemo.auction.api.BiddingClient;
-import com.hsdemo.auction.api.DataManager;
-import com.hsdemo.auction.events.BidsRefreshedEvent;
-import com.hsdemo.auction.models.AuctionItem;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -47,6 +43,10 @@ import java.util.List;
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 import de.greenrobot.event.EventBus;
+import edu.butler.epics.auction.api.BiddingClient;
+import edu.butler.epics.auction.api.DataManager;
+import edu.butler.epics.auction.events.BidsRefreshedEvent;
+import edu.butler.epics.auction.models.AuctionItem;
 
 public class ItemListActivity extends ActionBarActivity {
 

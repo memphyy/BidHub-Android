@@ -1,4 +1,4 @@
-package com.hsdemo.auction;
+package edu.butler.epics.auction;
 
 import android.content.Context;
 import android.content.res.Resources;

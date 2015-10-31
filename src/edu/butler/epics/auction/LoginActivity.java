@@ -1,4 +1,4 @@
-package com.hsdemo.auction;
+package edu.butler.epics.auction;
 
 import android.content.Intent;
 import android.graphics.Color;

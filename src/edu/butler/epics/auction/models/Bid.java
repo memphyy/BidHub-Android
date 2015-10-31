@@ -1,4 +1,4 @@
-package com.hsdemo.auction.models;
+package edu.butler.epics.auction.models;
 
 import com.parse.ParseClassName;
 import com.parse.ParseObject;
