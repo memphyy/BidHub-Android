@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Alex/BidHub-Android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/classes-88c71ccc2aea0a74e4d0bde57c75e9d94ed636f3.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/BidHub-Android/libs/Parse-1.7.1.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="87c45f9f66da531a65f065ee32f603c7e6db1528">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/Parse-1.7.1-2a3af81c0c2c89dcf28dac7f87bb97fe7d511418.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/BidHub-Android/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/classes-b8ce104c995bb27a8adfde5e40f54e393cf27242.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/4.0.1/f43b36925363701633d01adb8e54df7150397a78/butterknife-4.0.1.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="f43b36925363701633d01adb8e54df7150397a78">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/butterknife-4.0.1-b8fb19bdde9abc627041173577ecdad01d57c9a2.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/BidHub-Android/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/classes-3fa3248fbec6ae6ae253a535f07514bcbaa942cf.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/BidHub-Android/build/intermediates/exploded-aar/com.mcxiaoke.volley/library-aar/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/classes-021023b53795a865a41cf86672dad92e916c013b.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/BidHub-Android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-e7dd82af5c63aa2ba4f6f0a973794bc1a7e18440.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-905aa89ff716c2f056cdf04e124f2aee57ed4ae8.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/BidHub-Android/libs/bolts-android-1.1.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="e61e3dfc57eaa5c97f9e7061db5608fc7d02d39e">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/bolts-android-1.1.3-812b31974e7eddc7d7c10ac2c813ed728110f0f9.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.5.3/1c686b1e55ef22c795c7ec2e61c72cedb63123a5/okhttp-1.5.3.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="1c686b1e55ef22c795c7ec2e61c72cedb63123a5">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/okhttp-1.5.3-94e2c2596a629e7947abb9b988d7d9d755ab0f14.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.2.0/8957e80562a7e6ac5d9421e46e0898336c06c307/eventbus-2.2.0.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="8957e80562a7e6ac5d9421e46e0898336c06c307">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/eventbus-2.2.0-664b91dc5301b06ad6112eeefbb6cd21ff89ccc9.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/BidHub-Android/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/classes-255065c05697c6a72dd73748408740ce6e88d872.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/BidHub-Android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/classes-2cc5df0140afa24b183510b89a2349f37eb35135.jar" />
+    </item>
+    <item
+        jar="/Users/Alex/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.6/a845a88238be0b5be9d238652c1bc0605ef91f52/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.0"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/Alex/BidHub-Android/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-ac9921b3e8bf5357ba2565ee0f89e7cb2369d7d1.jar" />
+    </item>
+
+</items>

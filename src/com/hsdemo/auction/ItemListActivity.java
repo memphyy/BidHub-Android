@@ -480,7 +480,7 @@ public class ItemListActivity extends ActionBarActivity {
           v.price.setTextColor(getResources().getColor(R.color.primary_orange));
           v.messageContainer.setVisibility(View.VISIBLE);
           v.messageContainer.setBackgroundColor(getResources().getColor(R.color.primary_orange));
-          v.message.setText("You've been outbid. Try harder.");
+          v.message.setText("You've been outbid.");
         }
       }
       else {
@@ -579,7 +579,7 @@ public class ItemListActivity extends ActionBarActivity {
 
           final ProgressDialog progressDialog = ProgressDialog.show(ItemListActivity.this, "Placing bid...",
                   "We're placing your bid and confirming that nobody outbid you while you took " +
-                          "your sweet time deciding.", true);
+                          "your time deciding.", true);
 
           progressDialog.setCancelable(true);
 
