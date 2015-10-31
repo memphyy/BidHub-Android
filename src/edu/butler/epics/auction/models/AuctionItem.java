@@ -1,8 +1,8 @@
-package com.hsdemo.auction.models;
+package edu.butler.epics.auction.models;
 
 import android.app.Activity;
 
-import com.hsdemo.auction.IdentityManager;
+import edu.butler.epics.auction.IdentityManager;
 import com.parse.ParseClassName;
 import com.parse.ParseObject;
 

@@ -1,10 +1,10 @@
-package com.hsdemo.auction;
+package edu.butler.epics.auction;
 
 import android.app.Application;
 import android.util.Log;
 
-import com.hsdemo.auction.models.AuctionItem;
-import com.hsdemo.auction.models.Bid;
+import edu.butler.epics.auction.models.AuctionItem;
+import edu.butler.epics.auction.models.Bid;
 import com.parse.Parse;
 import com.parse.ParseACL;
 import com.parse.ParseException;
@@ -15,8 +15,15 @@ import com.parse.SaveCallback;
 
 public class AuctionApplication extends Application {
 
+<<<<<<< HEAD:src/com/hsdemo/auction/AuctionApplication.java
   public static final String APP_ID = "RrfsiiHqCF5fQVO0ZthuYECqPTOWiKD7NwaDei8d";
   public static final String CLIENT_KEY = "jDwE4YJwmfydoJzlMGE5ujJyUNnoK7LzL61Jnkk2";
+=======
+  public static final String APP_ID = "WhkQetI8nb0HrIykoaNc8LJ9flHIxOvgaXhFXFxm";
+  public static final String CLIENT_KEY = "uxKjxfKHKj5mlDwAtykNsur3vd1Hlc1Zms1lodEg";
+  
+  //Braxtyn account key: Ha6x84QKrSEfs0DMcsZ2w1bGDjddsPtrK7iVzpyN
+>>>>>>> df9aface884ab8d924da3d263fbb6656e282d1fb:src/edu/butler/epics/auction/AuctionApplication.java
 
   @Override
   public void onCreate() {

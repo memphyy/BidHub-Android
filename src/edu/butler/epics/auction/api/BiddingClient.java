@@ -1,11 +1,11 @@
-package com.hsdemo.auction.api;
+package edu.butler.epics.auction.api;
 
 import android.app.Activity;
 import android.util.Log;
 
-import com.hsdemo.auction.IdentityManager;
-import com.hsdemo.auction.models.AuctionItem;
-import com.hsdemo.auction.models.Bid;
+import edu.butler.epics.auction.IdentityManager;
+import edu.butler.epics.auction.models.AuctionItem;
+import edu.butler.epics.auction.models.Bid;
 import com.parse.ParseException;
 import com.parse.ParsePush;
 import com.parse.SaveCallback;

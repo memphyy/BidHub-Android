@@ -1,4 +1,4 @@
-package com.hsdemo.auction.events;
+package edu.butler.epics.auction.events;
 
 /**
  * Created by jtsuji on 11/14/14.
