@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.hsdemo.auction"
-    android:versionCode="4"
-    android:versionName="1.5" >
+    package="edu.butler.epics.auction"
+    android:versionCode="1"
+    android:versionName="0.1" >
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21"/>
 
@@ -11,12 +11,12 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
-        android:name="com.hsdemo.auction.AuctionApplication"
+        android:name="edu.butler.epics.auction.AuctionApplication"
         android:theme="@style/HubSpotTheme"
         android:icon="@drawable/appicon"
         android:label="Auction" >
         <activity
-            android:name="com.hsdemo.auction.LoginActivity"
+            android:name="edu.butler.epics.auction.LoginActivity"
             android:windowSoftInputMode="adjustPan"
             android:label="Auction" >
             <intent-filter>
@@ -24,7 +24,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.hsdemo.auction.ItemListActivity"
+        <activity android:name="edu.butler.epics.auction.ItemListActivity"
                   android:windowSoftInputMode="adjustPan"/>
 
         <service android:name="com.parse.PushService" />
@@ -46,7 +46,7 @@
                 <category android:name="com.hsdemo.auction" />
             </intent-filter>
         </receiver>
-        <receiver android:name="com.hsdemo.auction.PushReceiver" android:exported="false">
+        <receiver android:name="edu.butler.epics.auction.PushReceiver" android:exported="false">
             <intent-filter>
                 <action android:name="com.parse.push.intent.RECEIVE" />
                 <action android:name="com.parse.push.intent.DELETE" />
@@ -70,7 +70,7 @@
       to match your app's package name + ".permission.C2D_MESSAGE".
     -->
     <permission android:protectionLevel="signature"
-                android:name="com.hsdemo.auction.permission.C2D_MESSAGE" />
-    <uses-permission android:name="com.hsdemo.auction.permission.C2D_MESSAGE" />
+                android:name="edu.butler.epics.auction.permission.C2D_MESSAGE" />
+    <uses-permission android:name="edu.butler.epics.auction.permission.C2D_MESSAGE" />
 
 </manifest>
